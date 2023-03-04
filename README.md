@@ -1,5 +1,5 @@
 # Social Unrest Prediction Through Sentiment Analysis on Twitter Using Support Vector Machine: Experimental Study on Nigeria’s #EndSARS
-This repository contains the code and dataset used in the paper "Social Unrest Prediction Through Sentiment Analysis on Twitter Using Support Vector Machine: Experimental Study on Nigeria’s #EndSARS", published in Open Information Science, vol. 7, no. 1, 2023, pp. 20220138.
+This repository contains the code and dataset used in the paper ["Social Unrest Prediction Through Sentiment Analysis on Twitter Using Support Vector Machine: Experimental Study on Nigeria’s #EndSARS"](https://doi.org/10.1515/opis-2022-0141), published in Open Information Science, vol. 7, no. 1, 2023, pp. 20220138.
 
 The paper presents an experimental study on the use of sentiment analysis and support vector machine in predicting social unrest on Twitter, with a focus on Nigeria’s #EndSARS movement.
 
